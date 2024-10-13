@@ -1,67 +1,22 @@
-# Gaurav Rangne's Portfolio
+<h1 align="center">Hi 👋, I'm Gaurav Rangne</h1>
+<h3 align="center">A passionate Salesforce Developer</h3>
 
-## Overview
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sfgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="sfgaurav" /> </p>
 
-Welcome to the portfolio of **Gaurav Rangne**, a Salesforce Developer with expertise in **Apex**, **Lightning Web Components (LWC)**, and **Salesforce Automation Tools**. This repository showcases several of my projects, including apps built with Lightning Web Runtime (LWR) and custom Salesforce solutions developed during my professional journey.
+- 🌱 I’m currently learning **AI Associate Salesforce**
 
-## Projects
+- 👨‍💻 All of my projects are available at [https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/](https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/)
 
-Here are the key projects developed as part of my portfolio:
+- 💬 Ask me about **Welcome Salesforce Developer with expertise in Apex, Lightning Web Components (LWC), and Salesforce Automation Tools. This repository showcases several of my projects, including apps built with Lightning Web Runtime (LWR) and custom Salesforce solutions developed during my professional journey.**
 
-### 1. **[BMI Calculator App](https://gaurav-rangne-dev-ed.develop.my.site.com/bmi-calculator)**
-   - **Description**: A web-based app that calculates Body Mass Index (BMI) based on user input.
-   - **Tech Stack**: Lightning Web Components (LWC), Apex, HTML, CSS, JavaScript.
+- 📫 How to reach me **salesforce.gaurav22@gmail.com**
 
-### 2. **[Alarm Clock App](https://gaurav-rangne-dev-ed.develop.my.site.com/alarm-clock)**
-   - **Description**: A basic alarm clock app with the option to set alarms and notifications.
-   - **Tech Stack**: LWR, JavaScript, Salesforce APIs.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gaurav-rangne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-rangne" height="30" width="40" /></a>
+</p>
 
-### 3. **[Currency Converter App](https://gaurav-rangne-dev-ed.develop.my.site.com/currency-converter)**
-   - **Description**: An app to convert currencies using real-time data from an external API.
-   - **Tech Stack**: Salesforce LWR, JavaScript, API Integration.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-### 4. **[Weather App](https://gaurav-rangne-dev-ed.develop.my.site.com/weather-app)**
-   - **Description**: A weather application that pulls data from an external API to display weather conditions.
-   - **Tech Stack**: Salesforce LWR, Client-side API calls, JavaScript.
-
-### 5. **[Employee Survey](https://gaurav-rangne-dev-ed.develop.my.site.com/survey/survey/runtimeApp.app?invitationId=0KiJ1000000sY9F&surveyName=employee_survey&UUID=7e704b7c-246b-45ce-b7ab-06c4e36ad5eb)**
-   - **Description**: An interactive employee survey app for gathering feedback.
-   - **Tech Stack**: LWR, Apex, Surveys.
-
-### 6. **[Note Taking App](https://gaurav-rangne-dev-ed.develop.my.site.com/note-taking-app)**
-   - **Description**: A simple and user-friendly note-taking app where users can save important notes.
-   - **Tech Stack**: Salesforce LWR, JavaScript, Local Storage.
-
-### 7. **[Portfolio App](https://gaurav-rangne-dev-ed.develop.my.site.com/portfolio-app)**
-   - **Description**: My personal portfolio to showcase all the projects mentioned above.
-   - **Tech Stack**: Salesforce LWR, Apex, Lightning Web Components.
-
-## Skills and Expertise
-
-### Salesforce Development:
-- **Customization**: Apex collections, SOQL and SOSL, Synchronous processes (Triggers and test classes), Asynchronous processes (Batch Apex, Queueable, Schedulable, Future).
-- **Configuration**: Applications, Objects, Tabs, Fields, Field Dependency, Relationships, Sharing and Security, Automation Tools, Data Migration Tools, Reports, and Dashboards.
-- **UI Development**: Lightning Web Components (LWC), Integration with external APIs.
-  
-### Tools:
-- **Automation**: Salesforce Flow, Process Builder, Data Loader, and Data Import Wizard.
-- **Data Management**: Data Migration Tools (Data Loader, Data Import Wizard).
-- **Version Control**: GitHub, Git.
-- **Languages**: JavaScript, Apex, HTML, CSS.
-
-## Setup and Installation
-
-To run my portfolio apps locally or integrate them into your Salesforce environment:
-
-### Prerequisites
-
-- Salesforce Developer Edition or any Salesforce org.
-- Salesforce CLI (sfdx).
-- Node.js (optional, depending on project needs).
-
-### About Me
-
-I am a Salesforce Developer with hands-on experience in **Salesforce Administration** and **Development**. My skills include expertise in building custom applications, managing data, and automating processes using Salesforce technologies. My work focuses on problem-solving, debugging, and creating user-friendly, scalable applications.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gaurav-rangne/) or check out my personal website https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/ for more details.
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgaurav&show_icons=true&locale=en&layout=compact" alt="sfgaurav" /></p>
