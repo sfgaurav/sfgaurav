@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/](https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/)
 
-- 💬 Ask me about **Welcome Salesforce Developer with expertise in Apex, Lightning Web Components (LWC), and Salesforce Automation Tools. This repository showcases several of my projects, including apps built with Lightning Web Runtime (LWR) and custom Salesforce solutions developed during my professional journey.**
+- 💬 Ask me about **Welcome, Salesforce Developer with expertise in Apex, Lightning Web Components (LWC), and Salesforce Automation Tools. This repository showcases several of my projects, including apps built with Lightning Web Runtime (LWR) and custom Salesforce solutions developed during my professional journey.**
 
 - 📫 How to reach me **salesforce.gaurav22@gmail.com**
 
