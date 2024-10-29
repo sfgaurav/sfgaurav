@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sfgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="sfgaurav" /> </p>
 
-- 🌱 I’m currently learning **AI Associate Salesforce**
+- 🌱 I’m currently learning **AI Specialist Salesforce**
 
 - 👨‍💻 All of my projects are available at [https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/](https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/)
 
