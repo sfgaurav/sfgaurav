@@ -1,22 +1,61 @@
-<h1 align="center">Hi 👋, I'm Gaurav Rangney </h1>
-<h3 align="center">A passionate Salesforce Developer </h3>
+<h1 align="center">Hi 👋, I'm Gaurav Rangney</h1>
+<h3 align="center">🚀 Salesforce Developer | AI Enthusiast | 9+ Projects Completed</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sfgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="sfgaurav" /> </p>
-
-- 🌱 I’m currently learning **AI Specialist Salesforce**
-
-- 👨‍💻 All of my projects are available at [https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/](https://gaurav-rangney-dev-ed.develop.my.site.com/gauravRangneyCV/)
-
-- 💬 Ask me about **Welcome, Salesforce Developer with expertise in Apex, Lightning Web Components (LWC), and Salesforce Automation Tools. This repository showcases several projects, including apps built with Lightning Web Runtime (LWR) and custom Salesforce solutions developed during my professional journey.**
-
-- 📫 How to reach me **gauravrangney@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gaurav-rangne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-rangne" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sfgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="sfgaurav" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+- 🔭 Currently working as a **Salesforce Developer at Pegasus Technologies**
+- 🌱 Exploring the power of **Salesforce AI Tools** – Einstein AI, AI Associate, and AI Specialist
+- 🛠️ Skilled in **LWC, Apex, Flows, API Integrations, and Salesforce Clouds (Sales/Service/Experience/Data)**
+- 🎯 Developed **9+ Projects** including client-facing apps, dashboards, and automation tools
+- ✨ Passionate about **User-Centric Designs**, Real-Time Automation & Smart Integrations
+- 📫 Reach me at: **gauravrangney@gmail.com**
+- 💼 Digital Portfolio: [My Salesforce Projects & CV](https://gaurav-rangney-dev-ed.develop.my.site.com/gauravRangneyCV/)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgaurav&show_icons=true&locale=en&layout=compact" alt="sfgaurav" /></p>
+---
+
+### 🚀 Runtime Projects You’ll Love
+| Project Name | Highlights |
+|--------------|------------|
+| 🧭 Travel & Tourism Cloud | Sales + Service + Experience Cloud Integration |
+| 🏥 Einstein Smart Hospital | AI-powered appointment & case management |
+| 🌦️ Weather App | Client & Server-side API integration |
+| 💱 Currency Converter | Real-time currency fetch via server API |
+| 📒 Note-Taking App | CRUD with LWR components |
+| ⏰ Alarm Clock | Custom ringtone + animation logic |
+| 🧮 BMI Calculator | Interactive UI & IO functionality |
+| 📋 Employee Survey Tool | HR-focused, using Salesforce Survey Builder |
+
+---
+
+### 🧠 Tech Stack I Work With
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+</p>
+
+---
+
+### 📜 Certifications
+- 🎓 Salesforce Developer – Certified
+- 🔮 Salesforce AI Associate – Oct 2024
+- 🧠 Salesforce AI Specialist – Nov 2024
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/gaurav-rangne" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-rangne" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sfgaurav&show_icons=true&locale=en&layout=compact" alt="sfgaurav" />
+</p>
