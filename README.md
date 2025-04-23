@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gaurav Rangne</h1>
-<h3 align="center">A passionate Salesforce Developer</h3>
+<h1 align="center">Hi 👋, I'm Gaurav Rangney </h1>
+<h3 align="center">A passionate Salesforce Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sfgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="sfgaurav" /> </p>
 
 - 🌱 I’m currently learning **AI Specialist Salesforce**
 
-- 👨‍💻 All of my projects are available at [https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/](https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/)
+- 👨‍💻 All of my projects are available at [https://gaurav-rangne-dev-ed.develop.my.site.com/gauravRangneCV/](https://gaurav-rangney-dev-ed.develop.my.site.com/gauravRangneyCV/)
 
-- 💬 Ask me about **Welcome, Salesforce Developer with expertise in Apex, Lightning Web Components (LWC), and Salesforce Automation Tools. This repository showcases several of my projects, including apps built with Lightning Web Runtime (LWR) and custom Salesforce solutions developed during my professional journey.**
+- 💬 Ask me about **Welcome, Salesforce Developer with expertise in Apex, Lightning Web Components (LWC), and Salesforce Automation Tools. This repository showcases several projects, including apps built with Lightning Web Runtime (LWR) and custom Salesforce solutions developed during my professional journey.**
 
-- 📫 How to reach me **salesforce.gaurav22@gmail.com**
+- 📫 How to reach me **gauravrangney@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
